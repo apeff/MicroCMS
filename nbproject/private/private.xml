@@ -3,8 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/Slam5/Nouveau%20dossier%20(2)/MicroCMS/app/app.php</file>
-            <file>file:/E:/Slam5/Nouveau%20dossier%20(2)/MicroCMS/app/routes.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/views/layout.html.twig</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/src/MicroCMS/DAO/UserDAO.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/src/MicroCMS/DAO/DAO.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/app/routes.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/app/app.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/web/index.php</file>
+            <file>file:/G:/xampp/htdocs/MicroCMS/src/MicroCMS/DAO/ArticleDAO.php</file>
         </group>
     </open-files>
 </project-private>
